@@ -1,0 +1,1 @@
+Its a assistant who takes your voice input and help you to navigate anywhere on the internet or over your desktop in order to make your life easy and to make you access anything at one sentence like your buddy. Also the assistant is named Desktop Buddy.
